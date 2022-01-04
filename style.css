@@ -26,6 +26,7 @@ h2{
     padding-left: 5%;
     padding-right: 10%;
     padding-top: 2%;
+    
 }
 .half-width img{
    width: 130%;}
@@ -41,17 +42,17 @@ h2{
     
     }
     .top-banner{
-        background-image: url(/Background-2/top-banner.png);
+        background-image: url(Background-2/top-banner.png);
         background-repeat: no-repeat;
     }
     .experience-area{
-        background-image: url(/Background-2/exp-bg.png);
+        background-image: url(Background-2/exp-bg.png);
         background-repeat: no-repeat;
         background-position: left;
 
     }
     .dream-big{
-        background-image: url(/Background-2/dream-bg.png);
+        background-image: url(Background-2/dream-bg.png);
         background-repeat: no-repeat;
         background-position: right;
     }
